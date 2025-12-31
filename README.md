@@ -9,7 +9,7 @@
 
 2025-08-28 Aug - these days I'm trying to get my new Jr Developers to do many dumb repetitive tasks.  Claude is slower, but better than GPT4.1 so far.  But the jury it still out on how to make best use of these dumb, but hard-working oafs.
 
-2024-11 Nov - Working on alot of RPA these days, automating all the damn systems that won't build a decent API.  It is frustrating, but also fun ovrecoming all the obstacles.
+2024-11 Nov - Working on alot of RPA these days, automating all the damn systems that won't build a decent API.  It is frustrating, but also fun overcoming all the obstacles.
 
 <!---
 dlwiii/dlwiii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
