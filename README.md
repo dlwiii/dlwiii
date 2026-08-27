@@ -5,6 +5,8 @@
 - 📫 How to reach me ... I make it hard to be reached - too many bots, too much spam in the world
 - Why yes, I am a [rocket scientist](https://thesis.library.caltech.edu/4192/)
 
+2026-08-27 All-out on claude code!  Multiple Linux servers running multiple agents managed by a "mayor" and an "advisor". All accesses via ssh, tailscale and tmux.  One big happy swarm of chaos. On teams plan at $125 a month, still very much worthwhile. Constantly training the AIs for new tasks, testing otehr models as well.
+
 2025-12-31 Dec.  The jury is back and Claude Code is the clear winner!  It's doing things like creating and improving an entire internal admin site, helping me with real coding work and client management, even with astrophotography image processing!  Happy to pay $100 a month.  It's not perfect, but not an absolute idiot like the others I've tried.
 
 2025-08-28 Aug - these days I'm trying to get my new Jr Developers to do many dumb repetitive tasks.  Claude is slower, but better than GPT4.1 so far.  But the jury it still out on how to make best use of these dumb, but hard-working oafs.
