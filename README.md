@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning ... .Net Dev on Ubuntu
 - 💞️ I’m looking to collaborate on ... Terraform
 - 📫 How to reach me ... I make it hard to be reached - too many bots, too much spam in the world
-- Why yes, I am a [rocket scientist](https://thesis.library.caltech.edu/4192/)
+- Why yes, I am a [rocket scientist](https://thesis.library.caltech.edu/4192/](https://thesis.caltech.edu/4192/)
+
 
 2026-08-27 All-out on claude code!  Multiple Linux servers running multiple agents managed by a "mayor" and an "advisor". All accesses via ssh, tailscale and tmux.  One big happy swarm of chaos. On teams plan at $125 a month, still very much worthwhile. Constantly training the AIs for new tasks, testing otehr models as well.
 
